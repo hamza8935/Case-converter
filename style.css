@@ -1,0 +1,17 @@
+#input{
+    width: 500px;
+    height: 20px;
+}
+#main{
+    width: 1350px;
+    height: 640px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    text-align: center;
+}
+.abc{
+    text-transform: capitalize !important;
+}
